@@ -1,0 +1,6 @@
+[package]
+name = "slice-swap_with_slice_rgb_3000"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
