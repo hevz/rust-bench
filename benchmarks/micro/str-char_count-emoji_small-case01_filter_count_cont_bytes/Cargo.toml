@@ -1,0 +1,6 @@
+[package]
+name = "str-char_count-emoji_small-case01_filter_count_cont_bytes"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
