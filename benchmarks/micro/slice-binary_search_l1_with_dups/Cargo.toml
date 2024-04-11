@@ -1,0 +1,6 @@
+[package]
+name = "slice-binary_search_l1_with_dups"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
