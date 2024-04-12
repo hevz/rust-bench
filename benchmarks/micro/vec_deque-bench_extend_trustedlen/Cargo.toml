@@ -1,0 +1,6 @@
+[package]
+name = "vec_deque-bench_extend_trustedlen"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
