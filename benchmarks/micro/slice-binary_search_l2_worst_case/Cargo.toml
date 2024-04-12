@@ -1,0 +1,6 @@
+[package]
+name = "slice-binary_search_l2_worst_case"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
